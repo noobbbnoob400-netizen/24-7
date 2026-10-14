@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "vanillasmpx.playserver.pro",
-    "port": 15148,
-    "version": "1.21.11",
+    "ip": "all_boss_defeat.aternos.me",
+    "port": 20687,
+    "version": "1.20.1",
     "try-creative": false
   },
   "position": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "SoloPlayz"
+      "password": "Malowww2"
     },
     "anti-afk": {
       "enabled": true,
@@ -31,9 +31,9 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "24/7 bot by Marlowww",
+        "24/7 bot by Senpai",
         "Bot check Still alive. Server check Still chaotic.",
-        "Server status: Somehow still functioning.(Marlowww)"
+        "Server status: Somehow still functioning.(Senpai)"
       ]
     },
     "chat-log": true,
